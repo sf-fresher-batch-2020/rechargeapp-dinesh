@@ -1,0 +1,9 @@
+[submodule "rechargeapp-ui"]
+	path = rechargeapp-ui
+	url = https://github.com/sf-fresher-batch-2020/rechargeapp-ui.git
+[submodule "rechargeapp-angular-ui"]
+	path = rechargeapp-angular-ui
+	url = https://github.com/sf-fresher-batch-2020/rechargeapp-angular-ui.git
+[submodule "rechargeapp-api"]
+	path = rechargeapp-api
+	url = https://github.com/sf-fresher-batch-2020/rechargeapp-api.git
