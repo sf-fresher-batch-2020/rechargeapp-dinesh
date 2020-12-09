@@ -7,3 +7,6 @@
 [submodule "rechargeapp-api"]
 	path = rechargeapp-api
 	url = https://github.com/sf-fresher-batch-2020/rechargeapp-api.git
+[submodule "rechargeapp-mock-api"]
+	path = rechargeapp-mock-api
+	url = https://github.com/sf-fresher-batch-2020/rechargeapp-mock-api.git
